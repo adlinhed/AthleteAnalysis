@@ -5,14 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.lang.Math;
 
-/**
- * F28PA | Software Development A | Coursework
- * 
- * The Coursework specification is provided in Canvas. Please read through it in
- * full before you start work.
- * 
- * @author NUR ADLIN FADHLINA BINTI 1HEDILISYAM
- */
+
 public class AthleteAnalysis {
 
 	public static void main(String[] args) throws FileNotFoundException {
